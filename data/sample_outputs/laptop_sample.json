@@ -1,0 +1,22 @@
+{
+  "asset_type": "laptop",
+  "brand": "Dell",
+  "model": "Latitude 5420",
+  "serial_number": "SN-LT-100482",
+  "asset_tag": "ASSET-98765",
+  "imei": null,
+  "imei_valid": false,
+  "barcode": null,
+  "barcode_type": null,
+  "barcode_valid": false,
+  "confidence_score": 0.65,
+  "review_recommendation": "Human review recommended",
+  "explanation": [
+    "Brand identified (Dell).",
+    "Model identified (Latitude 5420).",
+    "Asset type classified as laptop.",
+    "Serial number extracted.",
+    "Asset tag extracted.",
+    "OCR returned a high volume of legible text."
+  ]
+}

@@ -1,0 +1,5 @@
+file_name,processing_seconds,ocr_chars,brand_found,model_found,serial_found,imei_found,imei_valid,barcode_found,barcode_valid,confidence_score,review_recommendation
+asset_label_full.png,0.3831,124,True,True,True,True,True,True,True,0.9,Auto-review eligible
+asset_label_laptop.png,0.2803,114,True,True,True,False,False,False,False,0.65,Human review recommended
+asset_label_phone.png,0.2778,111,True,True,True,True,True,False,False,0.75,Human review recommended
+barcode_upc.png,0.1136,14,False,False,False,False,False,True,True,0.19,Manual review required

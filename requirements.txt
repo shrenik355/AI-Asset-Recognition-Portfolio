@@ -1,0 +1,17 @@
+# Core pipeline
+pillow>=10.0.0
+pytesseract>=0.3.10
+pyzbar>=0.1.9
+
+# Web app
+streamlit>=1.30.0
+pandas>=2.0.0
+
+# Sample-data generation (optional, used by data/generate_samples.py)
+python-barcode>=0.15.1
+
+# Screenshot generation (optional, used by docs/generate_screenshots.py)
+playwright>=1.40.0
+
+# Testing
+pytest>=7.4.0

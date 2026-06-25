@@ -1,0 +1,23 @@
+{
+  "asset_type": "smartphone",
+  "brand": "Apple",
+  "model": "iPhone 13",
+  "serial_number": "SN-PH-774120",
+  "asset_tag": null,
+  "imei": "490154203237518",
+  "imei_valid": true,
+  "barcode": "012345678905",
+  "barcode_type": "UPC-A",
+  "barcode_valid": true,
+  "confidence_score": 0.9,
+  "review_recommendation": "Auto-review eligible",
+  "explanation": [
+    "Brand identified (Apple).",
+    "Model identified (iPhone 13).",
+    "Asset type classified as smartphone.",
+    "Serial number extracted.",
+    "IMEI passed Luhn validation.",
+    "Barcode decoded and check digit is valid.",
+    "OCR returned a high volume of legible text."
+  ]
+}
